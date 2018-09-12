@@ -1,7 +1,0 @@
-git init :- The "git init" command is used for tracking the folder.
-git status :- The "git status" command is used to check the status of folder i.e. whether there is work done on it or not.
-git add :- The "git add" command is used to add the folder so that the git could see the made changes.
-git commit :- The "git commit" command is used to save the changes that were made in the file.
-git add . :- The "git add ." command is used to add or combine two or more files together.
-git log :- The "git log" command is used to view the list of all versions that are made by the user.
-s
